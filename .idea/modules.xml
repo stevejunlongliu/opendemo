@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/opendemo.iml" filepath="$PROJECT_DIR$/.idea/opendemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-rest/rest.iml" filepath="$PROJECT_DIR$/app-rest/rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/webapp.iml" filepath="$PROJECT_DIR$/webapp/webapp.iml" />
+    </modules>
+  </component>
+</project>
